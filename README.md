@@ -1,6 +1,6 @@
-# MIT LATEX Template
+# CV LATEX Template
 
-Plantilla moderna LATEX del MIT para CV
+Plantilla moderna LATEX para CV desarrollada por Jan Küster
 
 %-----------------------------------------------------------------------------------------------------------------------------------------------%
 %	The MIT License (MIT)
